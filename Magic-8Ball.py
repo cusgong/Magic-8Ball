@@ -33,5 +33,6 @@ else:
     answer = "Error"
 
 # Seeing the result
+
 print(name + " asks: " + question)
 print("Magic 8Ball's answer: " + answer)
